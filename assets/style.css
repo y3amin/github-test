@@ -1,0 +1,24 @@
+*{margin: 0 auto;
+padding: 0;
+box-sizing: border-box;}
+
+.shought{
+    width: 480px;
+    background-color: darkgray;
+    padding: 20px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    text-align: center;
+    color: darkgoldenrod;
+font-size: 32px;
+font-weight: 900;
+}
+
+
